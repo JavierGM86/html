@@ -1,0 +1,15 @@
+#lista1{
+    color: darkblue;
+}
+#lista2{
+    color: red;
+}
+#lista3{
+    color: green;
+}
+footer {
+    text-align: right;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
